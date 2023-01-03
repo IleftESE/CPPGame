@@ -1,0 +1,5 @@
+Dagger 10 25 15
+Sword 15 20 20
+Bow 20 20 30
+Pistol 25 15 45
+Rifle 35 10 60
